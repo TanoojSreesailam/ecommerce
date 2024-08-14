@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Poppins&display=swap');
+
+body{
+    font-family: "Montserrat";
+}
+::-webkit-scrollbar{
+    display: none;
+}
